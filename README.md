@@ -1,0 +1,32 @@
+# Food Delivery App
+
+A full-stack food delivery platform with separate apps for customers, restaurant admins, and the backend API.
+
+## Project Structure
+food-delivery/
+├── Backend/
+├── admin/ 
+└── frontend/
+### Installation
+1. Clone the repository
+```bash
+   git clone https://github.com/Viollah/food-delivery.git
+   cd food-delivery
+2. Install dependencies for each folder
+```bash
+   cd Backend && npm install
+   cd ../admin && npm install
+   cd ../frontend && npm install
+3. Run the app
+```bash
+   # In Backend/
+   npm start
+
+   # In frontend/ (new terminal)
+   npm run dev
+#usage
+1. Add items
+2. Go to shopping cart
+3. Procced to checkout
+4. Procced to payment
+
