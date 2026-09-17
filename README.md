@@ -1,6 +1,6 @@
 # Food Delivery App
 
-A full-stack food delivery platform with separate apps for customers, restaurant admins, and the backend API.
+A full-stack food delivery platform.
 
 ## Project Structure
 food-delivery/
@@ -24,7 +24,7 @@ food-delivery/
 
    # In frontend/ (new terminal)
    npm run dev
-#usage
+#Usage
 1. Add items
 2. Go to shopping cart
 3. Procced to checkout
